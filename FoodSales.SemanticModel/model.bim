@@ -4,7 +4,7 @@
     "annotations": [
       {
         "name": "PBIDesktopVersion",
-        "value": "2.119.870.0 (23.07)"
+        "value": "2.139.927.0 (24.12)+304def1e9b85d1d2829888ece3513835a4501d6c"
       },
       {
         "name": "__PBI_TimeIntelligenceEnabled",
@@ -13,6 +13,10 @@
       {
         "name": "PBI_QueryOrder",
         "value": "[\"Customers\",\"Categories\",\"Orders\",\"Order_Details\",\"Products\"]"
+      },
+      {
+        "name": "PBI_ProTooling",
+        "value": "[\"DevMode\"]"
       }
     ],
     "culture": "en-US",
@@ -21,7 +25,6 @@
         "name": "en-US",
         "linguisticMetadata": {
           "content": {
-            "DynamicImprovement": "HighConfidence",
             "Entities": {
               "order_details.revenue": {
                 "Definition": {
@@ -355,7 +358,7 @@
           },
           {
             "name": "PBI_ResultType",
-            "value": "Table"
+            "value": "Exception"
           }
         ],
         "columns": [
@@ -533,7 +536,7 @@
         "annotations": [
           {
             "name": "PBI_ResultType",
-            "value": "Table"
+            "value": "Exception"
           }
         ],
         "columns": [
@@ -614,7 +617,7 @@
         "annotations": [
           {
             "name": "PBI_ResultType",
-            "value": "Table"
+            "value": "Exception"
           }
         ],
         "columns": [
@@ -1511,7 +1514,7 @@
         "annotations": [
           {
             "name": "PBI_ResultType",
-            "value": "Table"
+            "value": "Exception"
           }
         ],
         "columns": [
